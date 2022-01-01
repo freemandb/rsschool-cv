@@ -1,40 +1,37 @@
 # Dan Freeman
-
-----
-
 ### FullStack Develope
 
-----
+---
 
 ### Contacts
 
-**Cell Phone** +375(29)010203
+**Cell Phone** +375(29)010203<br>
 **e-mail**     freemandb@mail.ru
 
-----
+---
 
 ### Brief Info:
 
->Draft text about my life, gained knowlege and ambitions
+>Draft text about my life, gained knowlege, skills and ambitions
 
-----
+---
 
 ### Skills
 
-+ HTML, CSS
-+ JavaScript 
-+ ActionScript (2/3)
+- HTML, CSS
+- JavaScript 
+- ActionScript (2/3)<br>
 
-+ VS code, Intellij Idea, WebStorm, Eclipse
-+ Adobe Scout, Adobe Animate, Adobe Photoshop
+- VS code, Intellij Idea, WebStorm, Eclipse
+- Adobe Scout, Adobe Animate, Adobe Photoshop
 
-----
+---
 
 ### Code examples
 
 >Simple node.js code
 
-```
+```javascript
 const onKeyPressHandler = async e => {
     let direction, up;
     if (["game-over", "win"].includes(gameStatus)) return;
@@ -96,6 +93,14 @@ const onKeyPressHandler = async e => {
 ```
 ----
 
-###Courses
+### Courses
 
 + HTML, CSS, JavaScript in RS School
+
+----
+
+### Languages:
+
+- English \- Upper-intermediate/Advanced<br>
+- French \- intermediate
+- Russian \- Native
