@@ -1,5 +1,5 @@
 # Dan Freeman
-### FullStack Develope
+### FullStack Developer
 
 ---
 
@@ -29,7 +29,7 @@
 
 ### Code examples
 
->Simple node.js code
+Simple node.js code
 
 ```javascript
 const onKeyPressHandler = async e => {
