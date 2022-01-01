@@ -1,23 +1,23 @@
 # Dan Freeman
 
-====
+----
 
-### FullStack Developer
+### FullStack Develope
 
-====
+----
 
 ### Contacts
 
 **Cell Phone** +375(29)010203
 **e-mail**     freemandb@mail.ru
 
-====
+----
 
 ### Brief Info:
 
 >Draft text about my life, gained knowlege and ambitions
 
-====
+----
 
 ### Skills
 
@@ -28,7 +28,7 @@
 + VS code, Intellij Idea, WebStorm, Eclipse
 + Adobe Scout, Adobe Animate, Adobe Photoshop
 
-====
+----
 
 ### Code examples
 
@@ -94,7 +94,7 @@ const onKeyPressHandler = async e => {
     }
 }
 ```
-====
+----
 
 ###Courses
 
