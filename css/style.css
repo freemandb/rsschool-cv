@@ -1,14 +1,22 @@
+:root {
+    --name-section-width: 256px;
+}
+
 body {
     background-color: #a0a0a0;
 }
 
 /* #header { */
-.main-header {
+.main-box {
     padding-top: 20px;
     display: flex;
     flex-direction: row;
     margin: 20px;
     align-items: flex-end;
+}
+
+.main-main-part {
+    align-items: flex-start;
 }
 
 a {
@@ -48,4 +56,36 @@ hr {
     min-width: 500px;
     margin: 10px auto 10px;
     background-color: #ffffff;
+}
+
+.section-name {
+    max-width: 256px;
+    min-width: 256px;
+    text-align: center;
+}
+
+footer {
+  display: flex;
+  height: 70px;
+  justify-content: space-around;
+  align-items: center;
+  color: #ffffff;
+  background-color: #a0c0a0
+}
+
+footer a {
+  color: #ffffff;
+}
+
+.footer-copyright {
+    text-align: center;
+}
+
+.footer-git-link-text {
+  margin-left: 10px;
+}
+
+.footer-git-link {
+  display: flex;
+  align-items: center;
 }
