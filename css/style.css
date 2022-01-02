@@ -6,13 +6,23 @@ body {
     background-color: #a0a0a0;
 }
 
-/* #header { */
+
 .main-box {
     padding-top: 20px;
     display: flex;
-    flex-direction: row;
+    /* flex-direction: row; */
     margin: 20px;
     align-items: flex-end;
+}
+
+nav {
+    margin: 20px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0;
 }
 
 .main-main-part {
